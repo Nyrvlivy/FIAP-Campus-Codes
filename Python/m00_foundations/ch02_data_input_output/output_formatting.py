@@ -5,7 +5,7 @@ weight = float(input('Enter your weight: '))
 print()
 
 # Example 1 = Basic Concatenation:
-print('1. My name is ', name, 'I am ', age, 'years old and I weigh ', weight, 'Kg')
+print('1. My name is', name, 'I am', age, 'years old and I weigh', weight, 'Kg')
 
 # Example 2 = Using str.format() method:
 # Basic formatting
