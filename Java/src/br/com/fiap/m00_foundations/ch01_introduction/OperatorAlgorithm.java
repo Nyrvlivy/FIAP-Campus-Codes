@@ -1,3 +1,5 @@
+package br.com.fiap.m00_foundations.ch01_introduction;
+
 import java.util.Scanner;
 
 public class OperatorAlgorithm {
