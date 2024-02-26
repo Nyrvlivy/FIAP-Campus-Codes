@@ -1,4 +1,4 @@
-# Extra Resources Notebook
+# Extra Resources
 
 ## Chapter 1: Introduction to Programming
 
