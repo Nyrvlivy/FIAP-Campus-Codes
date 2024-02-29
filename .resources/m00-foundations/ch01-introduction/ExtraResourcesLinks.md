@@ -10,4 +10,3 @@
 - **Organization and Computer Architecture - Univast**
     - Description: Computer organization and architecture, along with insights into the hardware that underpins programming languages.
     - Link: [Download PDF](https://bit.ly/3PqzKvP)
-    - Accessed on: May 13, 2022
