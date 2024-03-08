@@ -41,13 +41,13 @@ Our mission is to enhance users' financial well-being by providing an integrated
 The primary goals of our project are to empower users by:
 
 1. **Enhancing Personal Finance Management:** Develop an intuitive, user-friendly system that simplifies financial data, enabling users to effortlessly manage their income, debts, and investments.
-    <br><br>
+
 2. **Educational Guidance and Support:** Offer educational resources and guidance within the platform, helping users understand financial concepts and strategies, thereby improving their financial management and spending control.
-    <br><br>
+
 3. **Goal Planning and Monitoring:** Provide sophisticated tools that support precise financial planning and goal tracking, ensuring users can define and meet their financial objectives with increased clarity and confidence.
-    <br><br>
+
 4. **Informed Decision-Making:** Utilize predictive analytics to supply users with actionable insights, facilitating smarter, data-driven financial decisions.
-    <br><br>
+
 5. **Improving Financial Health and Quality of Life:** Aim to significantly enhance users' financial literacy and health through a simplified approach to financial management, fostering a wealthier, more stress-free lifestyle.
 
 Through this integrated approach, we aspire to transform financial management into a more accessible, intuitive and secure component of everyday life, significantly improving users' financial health and overall quality of life, in addition to their knowledge of financial planning.
@@ -59,18 +59,18 @@ Through this integrated approach, we aspire to transform financial management in
 The project will be divided into seven main phases:
 
 1. **Planning and Research:** Formalize project scope, objectives, and prerequisites, applying Agile and Scrum methodologies. Establish the development environment, prioritizing programming logic, algorithms, and Python proficiency.
-    <br><br>
+
 2. **Requirements Engineering:** Conduct detailed requirement analysis, develop specifications and use cases, and formulate initial algorithms and data structures. Implement process management through project estimations, Kanban scheduling, and interface mockups.
-    <br><br>
+
 3. **Algorithm & Data Structure Refinement:** Focus on algorithm optimization and comprehensive relational database modeling and documentation.
-   <br><br>
+
 4. **Design & Development:** Craft the application's visual identity and user interface using modern web technologies, focusing on an optimal user experience.
-   <br><br>
+
 5. **Documentation & Backend Structure:** Enhance documentation and adopt object-oriented approaches for backend development.
    Construct and document class diagrams, initiating Java-based model layer construction.
-   <br><br>
+
 6. **Backend Advancement & Oracle Database Integration:** Deepen model layer development and integrate extensively with the Oracle database, emphasizing table structure management and data integrity.
-   <br><br>
+
 7. **Integration & Quality Assurance:** Finalize system integration, ensuring seamless operation between user interface and backend. Execute rigorous testing to guarantee system reliability and readiness for deployment.
 
 ##
