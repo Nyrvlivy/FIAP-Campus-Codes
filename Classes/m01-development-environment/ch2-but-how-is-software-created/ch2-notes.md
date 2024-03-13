@@ -38,8 +38,7 @@ techniques for software development.
 computer programs using various tools and programming languages. Examples include: text
 editors, compilers, interpreters, debuggers, and integrated development environments (IDEs).
 
- E.g.:
-
+ > E.g.:
    >  - Operating Systems (OS): Windows, Linux, macOS, Android, iOS, Chrome OS.
    >  - Disk Management Tools: Disk Defragmenter, Disk Cleanup, GParted, CHKDSK.
    >  - Hardware Management Programs: BIOS, UEFI, CPU-Z, MSI Afterburner.
@@ -51,27 +50,25 @@ editors, compilers, interpreters, debuggers, and integrated development environm
 computer programs using various tools and programming languages. Examples include: text editors,
 compilers, interpreters, debuggers, and integrated development environments (IDEs).
 
-   E.g.:
-
-    >  - **Text Editors:** Sublime Text, Atom, Notepad++, Vim, Visual Studio Code (VSCode).
-    >  - **Compilers:** GCC (GNU Compiler Collection), Clang, MSVC.11 (Microsoft Visual C++).
-    >  - **Interpreters:** Python Interpreter (CPython), Ruby Interpreter (MRI), Node.js.
-    >  - **Debuggers:** GDB (GNU Debugger), LLDB, WinDbg, PDB (Python Debugger).
-    >  - **Integrated Development Environments (IDEs):** Visual Studio, Eclipse, IntelliJ IDEA, PyCharm,
+ > E.g.:
+  >  - **Text Editors:** Sublime Text, Atom, Notepad++, Vim, Visual Studio Code (VSCode).
+  >  - **Compilers:** GCC (GNU Compiler Collection), Clang, MSVC.11 (Microsoft Visual C++).
+  >  - **Interpreters:** Python Interpreter (CPython), Ruby Interpreter (MRI), Node.js.
+  >  - **Debuggers:** GDB (GNU Debugger), LLDB, WinDbg, PDB (Python Debugger).
+  >  - **Integrated Development Environments (IDEs):** Visual Studio, Eclipse, IntelliJ IDEA, PyCharm,
       NetBeans, Android Studio, Xcode.
 
 3. **Application Software:** Software designed to perform specific functions to meet the end-users
 requirements. Examples include general-purpose software, custom software, and utility software.
 
-   E.g.:
-
-   >  - **General-purpose Software:** Microsoft Office, Adobe Creative Cloud, Web browsers
+ > E.g.:
+  >  - **General-purpose Software:** Microsoft Office, Adobe Creative Cloud, Web browsers
       (Chrome, Firefox, Edge, Safari, Opera).
-   >  - **Custom Software:** ERP (Enterprise Resource Planning) systems like SAP and Oracle ERP,
+  >  - **Custom Software:** ERP (Enterprise Resource Planning) systems like SAP and Oracle ERP,
       Database applications (MySQL, PostgreSQL, MongoDB, Oracle Database), Inventory
       Management and Control Systems, among others.
-   >  - **Utility Software:** Antivirus (Kaspersky, Norton, Windows Defender), Firewall, File
-      Compression Software (WinRAR, 7-Zip), Backup Software (Acronis True Image, Macrium).
+  >  -  **Utility Software:** Antivirus (Kaspersky, Norton, Windows Defender), Firewall, File
+    Compression Software (WinRAR, 7-Zip), Backup Software (Acronis True Image, Macrium).
 
 Additionally, there is a possible fourth type of software, known as embedded system software:
 
