@@ -99,7 +99,7 @@ of hardware and software:
 
 **Significant Milestones in Technological Evolution:**
 <details>
-    <summary>Click to expand</summary>
+    <summary><i>Click to expand</i></summary>
 
 > * **17th Century:** Blaise Pascal invents a basic calculator, followed by Gottfried Wilhelm von Leibniz, who adds multiplication and division functionalities.
 
@@ -134,7 +134,7 @@ of hardware and software:
 
 **Recent Advances in Hardware and Software Evolution:**
 <details>
-    <summary>Click to expand</summary>
+    <summary><i>Click to expand</i></summary>
 
 > * **1969:** The ARPANET is established, leading to the development of the internet.
 
@@ -163,7 +163,7 @@ of hardware and software:
 
 **Early 21st century:**
 <details>
-    <summary>Click to expand</summary>
+    <summary><i>Click to expand</i></summary>
 
 > * **2000:** Internet browsers evolve, enabling the development of various web systems offering innovative services.
 
