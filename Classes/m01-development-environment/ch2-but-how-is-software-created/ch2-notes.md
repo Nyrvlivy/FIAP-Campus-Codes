@@ -98,6 +98,8 @@ Historical technological advancements have played a crucial role in shaping the 
 of hardware and software:
 
 **Significant Milestones in Technological Evolution:**
+<details>
+    <summary>Click to expand</summary>
 
 > * **17th Century:** Blaise Pascal invents a basic calculator, followed by Gottfried Wilhelm von Leibniz, who adds multiplication and division functionalities.
 
@@ -128,8 +130,11 @@ of hardware and software:
 > * **1957:** First transistor-based computers emerge, offering better reliability and speed.
 
 > * **1958:** The integrated circuit (chip) facilitates the miniaturization of electronic devices, enhancing computing efficiency.
+</details>
 
 **Recent Advances in Hardware and Software Evolution:**
+<details>
+    <summary>Click to expand</summary>
 
 > * **1969:** The ARPANET is established, leading to the development of the internet.
 
@@ -154,8 +159,11 @@ of hardware and software:
 > * **1996:** Artificial intelligence gains prominence in simulating human thought in computers. IBM's Deep Blue defeats world chess champion Garry Kasparov.
 
 > * **End of the 20th Century:** MIT produces COG, a robot prototype with an artificial nervous system more powerful than a Macintosh, simulating human growth, thoughts, and feelings.
+</details>
 
 **Early 21st century:**
+<details>
+    <summary>Click to expand</summary>
 
 > * **2000:** Internet browsers evolve, enabling the development of various web systems offering innovative services.
 
@@ -170,6 +178,7 @@ of hardware and software:
 > * **2016:** The World Economic Forum in Davos focuses on the Fourth Industrial Revolution, discussing digital information production/consumption and preparation for the digital era.
 
 > * **2019:** Google achieves quantum supremacy with a quantum computer that performs calculations in minutes that would previously have taken years.
+</details>
 
 ##
 
