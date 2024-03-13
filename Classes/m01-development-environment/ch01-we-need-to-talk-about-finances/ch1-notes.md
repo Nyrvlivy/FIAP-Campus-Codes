@@ -99,7 +99,7 @@ you must pay Income Tax, while others are exempt.
 For those with a slightly higher risk appetite, alternatives include Real Estate Investment
 Trusts, stocks, options, ETFs, and cryptocurrencies.
 
-### 1.9 - Conclusion
+### 2 - Conclusion
 
 In sum, **financial literacy is crucial for a well-balanced and healthy financial life.** Setting
 clear goals and objectives, to have a financial reserve for emergencies, and to be aware of the
