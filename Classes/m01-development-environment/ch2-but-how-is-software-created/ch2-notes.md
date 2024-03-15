@@ -224,6 +224,120 @@ final software deployment.
 
 ##
 
-### 6 - Conclusion
+### 4 - Origin of Software Engineering
+
+The term "software engineering" was coined in the 1960s and officially used in 1968 at the
+NATO Software Engineering Conference. This term's origin aimed to address the _software
+crisis_ by providing a systematic and controlled approach to developing complex software
+systems.
+
+Key milestones in the origin of software engineering include:
+
+- 1960: The term "_software engineering_" emerged.
+- 1968: The concept of software engineering was **formalized**.
+- 1972: The NATO conference _published a report_ on software engineering.
+- 1976: A commission was established to develop software engineering standards, resulting
+in the IEEE 730 standard, which aimed to standardize software planning and content
+preparation, completed in 1979.
+- 1990: Initiation of the IEEE 1074, an international standard focusing on reconciling
+software process viewpoints, which led to the creation of ISO/IEC 12207 in 1995, a
+standard for software life cycle processes.
+
+Furthermore, the Agile Manifesto was published in 2001 by Kent Beck and sixteen other
+notable developers. This manifesto marked a shift towards Agile development methodologies,
+focusing on principles such as customer collaboration, welcoming changes, and delivering
+functional software frequently. The Agile frameworks like Extreme Programming (XP) were
+developed based on these principles, emphasizing teamwork, customer involvement, and
+adaptability throughout the project's life cycle.
+
+##
+
+### 5 - Software Engineering Knowledge Areas
+
+The SWEBOK (_Software Engineering Body of Knowledge_), published by the IEEE Computer
+Society in an attempt to **standardize knowledge** in the software engineering field,
+has organized ten knowledge areas:
+
+```plaintext
+* **Software Requirements**
+* **Software Design**
+* **Software Construction**
+* **Software Testing**
+* **Software Maintenance**
+* **Configuration Management and Change**
+* **Software Engineering Management**
+* **Software Engineering Process**
+* **Software Engineering Tools and Methods**
+* **Software Quality**
+```
+
+The purpose of organizing these ten knowledge areas is to **provide a comprehensive
+framework** and an **outline of the topics** important for software engineering,
+thereby aiding in teaching, practice, and the professional development of software
+engineers.
+
+Regardless of the knowledge area, **software engineering encompasses fundamental
+elements such as methods, tools, processes, and a focus on quality**.
+
+Other main objectives of _SWEBOK_ include:
+
+```plaintext
+1. Minimizing complexity,
+2. Anticipating changes,
+3. Conducting verification,
+4. Defining standards for software construction.
+```
+
+##
+
+### 6 - Software Development Life Cycle (SDLC)
+
+In the field of software engineering, challenges encountered during development include:
+
+```plaintext
+1. Insufficient resources,
+2. High costs,
+3. Solutions that do not meet stakeholder expectations,
+4. Software more expensive than hardware,
+5. Maintenance more costly than development.
+```
+
+In light of these challenges, software engineering aims to **reduce costs**, **meet
+schedules**, **improve quality**, **document appropriately**, and **adapt to necessary
+changes**, satisfying customer needs and keeping pace with technological changes.
+
+The creation of software is complex and **requires a well-defined process** to
+enhance development visibility and maximize the quality of the outcomes while
+minimizing time and cost wastage. According to Pressman (2009), **_all software
+is built based on a lifecycle_**, composed of various stages that include methods,
+tools, and procedures to create the desired product.
+
+In software development, especially in agile environments, **constant change and
+complexity are faced, necessitating project management that adapts to these conditions**.
+While the traditional method focuses on sequential processes and the quality of
+artifacts, **the agile method emphasizes quick adaptation to changes**, with
+**customer integration and short development times**, leading to debates over the
+effectiveness and application of each approach.
+
+Both traditional and agile methodologies have their advantages and disadvantages and
+are defended by their respective proponents. The Agile Manifesto highlights the
+importance of flexibility, customer participation, continuous delivery, and openness
+to changes at any moment of the project.
+
+The software development process life cycle, illustrated in the attached image:
+
+1. Begins with **Requirement Gathering**,
+2. followed by **Requirement Analysis**, where traditional and agile approaches are
+compared.
+3. Subsequently, the **Design** is developed,
+4. leading to **Implementation**.
+5. After implementation, the software undergoes **Testing**, and
+6. finally, **Deployment**.
+
+![SDLC-img.png](SDLC-img.png)
+Fig. 1 - Software Development Life Cycle (SDLC)
+
+This cycle highlights the importance of continuous analysis and adaptation to
+changes, reflecting the evolution of software development methods.
 
 ---
