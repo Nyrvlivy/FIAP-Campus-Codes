@@ -259,16 +259,16 @@ Society in an attempt to **standardize knowledge** in the software engineering f
 has organized ten knowledge areas:
 
 ```plaintext
-* **Software Requirements**
-* **Software Design**
-* **Software Construction**
-* **Software Testing**
-* **Software Maintenance**
-* **Configuration Management and Change**
-* **Software Engineering Management**
-* **Software Engineering Process**
-* **Software Engineering Tools and Methods**
-* **Software Quality**
+* Software Requirements
+* Software Design
+* Software Construction
+* Software Testing
+* Software Maintenance
+* Configuration Management and Change
+* Software Engineering Management
+* Software Engineering Process
+* Software Engineering Tools and Methods
+* Software Quality
 ```
 
 The purpose of organizing these ten knowledge areas is to **provide a comprehensive
