@@ -51,48 +51,56 @@ operation produces a series product, like an assembly line.
 ### 2.1 - Concepts
 
 Stakeholders:
-> _"A stakeholder is an individual, group, or organization who may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project."_ - PMI
+> _"A stakeholder is an individual, group, or organization who may affect, be affected
+by, or perceive itself to be affected by a decision, activity, or outcome of a project."_- PMI
 
-Stakeholders are all and any people who may be affected by the project, directly or indirectly. They can be internal or external to the organization, such as sponsors, clients, suppliers, developers, managers, outsourced services, etc.
+Stakeholders are all and any people who may be affected by the project, directly or
+indirectly. They can be internal or external to the organization, such as sponsors,
+clients, suppliers, developers, managers, outsourced services, etc.
 
 Project management:
-> _"Project management is the application of knowledge, skills, tools, and techniques to project activities to meet the project requirements."_ - PMI
+> _"Project management is the application of knowledge, skills, tools, and techniques
+> to project activities to meet the project requirements."_ - PMI
 
-Project management is the application of knowledge, skills, tools, and techniques to the activities of the project to meet the requirements within the deadline, according to the budget, and with the expected quality.
+Project management is the application of knowledge, skills, tools, and techniques
+to the activities of the project to meet the requirements within the deadline,
+according to the budget, and with the expected quality.
 
 ##
 
 ### 2.2 - Project Manager
 
-The project manager is responsible for leading the project team, ensuring that the project is completed successfully. He is responsible for:
+The project manager is responsible for leading the project team, ensuring that the
+project is completed successfully. He is responsible for:
 
-- Defining the project scope;
-- Planning, executing, and monitoring the project;
-- Developing the schedule and budget;
-- Negotiating with stakeholders;
-- Identifying and resolving conflicts;
-- Forming and leading the project team;
-- Negotiating resources;
+> - Defining the project scope;
+> - Planning, executing, and monitoring the project;
+> - Developing the schedule and budget;
+> - Negotiating with stakeholders;
+> - Identifying and resolving conflicts;
+> - Forming and leading the project team;
+> - Negotiating resources;
 
 ##
 
 ### 2.3 - Company Environmental Factors
 
-Company environmental factors are elements that influence or restrict the project, such as:
+Company environmental factors are elements that influence or restrict the project,
+such as:
 
-- Culture, structure, and governance of the organization;
-- Geographic distributions and infrastructure of the company’s facilities.
-- Government or industry standards.
-- Existing human resources, with their skills and knowledge.
-- Personnel administration.
-- Market conditions.
-- Company’s work authorization systems.
-- Political climate.
-- Stakeholder's risk tolerance.
-- Established communication channels.
-- Commercial databases that can be used for cost estimation or risk analysis.
-- Project management information system: software for scheduling, configuration management system,
-  information collection and distribution, such as an intranet, etc.
+> - Culture, structure, and governance of the organization;
+> - Geographic distributions and infrastructure of the company’s facilities.
+> - Government or industry standards.
+> - Existing human resources, with their skills and knowledge.
+> - Personnel administration.
+> - Market conditions.
+> - Company’s work authorization systems.
+> - Political climate.
+> - Stakeholder's risk tolerance.
+> - Established communication channels.
+> - Commercial databases that can be used for cost estimation or risk analysis.
+> - Project management information system: software for scheduling, configuration
+management system, information collection and distribution, such as an intranet, etc.
 
 #### Company Environmental Factors Graph
 
@@ -103,29 +111,36 @@ Fig. 1 - Company Environmental Factors
 
 ### 3 - Modern Agile Concepts
 
-Evolution of the Agile Manifesto, Modern Agile is a simplified and more effective approach to software development, involving practices like partial deliveries, self-organized teams, and the acceptance of changes. It is based on four principles:
+Evolution of the Agile Manifesto, Modern Agile is a simplified and more effective
+approach to software development, involving practices like partial deliveries,
+self-organized teams, and the acceptance of changes. It is based on four principles:
 
-1. **Make People Awesome**: The aim is to make people feel incredible so they can do incredible work.
-2. **Make Safety a Prerequisite**: Safety is a priority.
-3. **Experiment and Learn Rapidly**: Experiment and learn quickly, fail fast and learn fast.
-4. **Deliver Value Continuously**: Deliver value continuously.
+> 1. **Make People Awesome**: The aim is to make people feel incredible, so they can do incredible work.
+> 2. **Make Safety a Prerequisite**: Safety is a priority.
+> 3. **Experiment and Learn Rapidly**: Experiment and learn quickly, fail fast and learn fast.
+> 4. **Deliver Value Continuously**: Deliver value continuously.
 
 ##
 
 ### 4 - Agile Software Development Methodologies
 
-Pressman (2016) defines agile methodologies as a set of software development practices based on agile values and principles, such as continuous delivery, collaboration, communication, and adaptation to changes. He highlights three main characteristics:
+Pressman (2016) defines agile methodologies as a set of software development
+practices based on agile values and principles, such as continuous delivery,
+collaboration, communication, and adaptation to changes. He highlights three main
+characteristics:
 
+```plaintext
 1. The requirements of an agile project are unstable by nature.
 2. Architecture and technical requirements are developed iteratively.
 3. The project development phases are not sequential.
+```
 
-Thus, two techniques stand out for managing agile projects: Strategy Definition and Incremental Software Construction.
+Thus, two techniques stand out for managing agile projects: Strategy Definition and
+Incremental Software Construction.
 
 In the market, the most well-known agile methodologies are:
 
 - **Extreme Programming (XP)**: It is an agile methodology that is based on practices such as pair programming, unit tests, and continuous integration.
-
 - **Scrum**: It is an agile methodology based on partial deliveries and self-organization of teams.
 
 ##
