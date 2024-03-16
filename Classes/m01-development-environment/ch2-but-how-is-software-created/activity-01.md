@@ -17,10 +17,12 @@ and three disadvantages for each.
 
 ## Submission
 
-![wise-vs-nomad-pt-br.png](wise-vs-nomad-pt-br.png)
+### Competitive Analysis of Finance Apps: Wise vs. Nomad (pt-BR version)
+![wise-vs-nomad-pt-br.png](assets/wise-vs-nomad-pt-br.png)
 Figure 1: Wise vs. Nomad Finance Apps - pt-BR version
 
-![wise-vs-nomad-en.png](wise-vs-nomad-en.png)
+### Competitive Analysis of Finance Apps: Wise vs. Nomad (en version)
+![wise-vs-nomad-en.png](assets/wise-vs-nomad-en.png)
 Figure 2: Wise vs. Nomad Finance Apps - en version
 
 ##
