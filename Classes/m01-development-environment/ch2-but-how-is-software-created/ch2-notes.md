@@ -334,7 +334,7 @@ compared.
 5. After implementation, the software undergoes **Testing**, and
 6. finally, **Deployment**.
 
-![SDLC-img.png](SDLC-img.png)
+![SDLC-img.png](assets/SDLC-img.png)
 Fig. 1 - Software Development Life Cycle (SDLC)
 
 This cycle highlights the importance of continuous analysis and adaptation to
