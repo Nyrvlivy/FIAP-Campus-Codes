@@ -50,7 +50,7 @@ operation produces a series product, like an assembly line.
 
 ### 2.1 - Concepts
 
-Stakeholders:
+- **Stakeholders:**
 > _"A stakeholder is an individual, group, or organization who may affect, be affected
 by, or perceive itself to be affected by a decision, activity, or outcome of a project."_- PMI
 
@@ -58,7 +58,7 @@ Stakeholders are all and any people who may be affected by the project, directly
 indirectly. They can be internal or external to the organization, such as sponsors,
 clients, suppliers, developers, managers, outsourced services, etc.
 
-Project management:
+- **Project management:**
 > _"Project management is the application of knowledge, skills, tools, and techniques
 > to project activities to meet the project requirements."_ - PMI
 
