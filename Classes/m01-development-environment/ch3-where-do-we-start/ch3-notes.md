@@ -115,10 +115,10 @@ Evolution of the Agile Manifesto, Modern Agile is a simplified and more effectiv
 approach to software development, involving practices like partial deliveries,
 self-organized teams, and the acceptance of changes. It is based on four principles:
 
-> 1. **Make People Awesome**: The aim is to make people feel incredible, so they can do incredible work.
-> 2. **Make Safety a Prerequisite**: Safety is a priority.
-> 3. **Experiment and Learn Rapidly**: Experiment and learn quickly, fail fast and learn fast.
-> 4. **Deliver Value Continuously**: Deliver value continuously.
+ 1. **Make People Awesome**: The aim is to make people feel incredible, so they can do incredible work.
+ 2. **Make Safety a Prerequisite**: Safety is a priority.
+ 3. **Experiment and Learn Rapidly**: Experiment and learn quickly, fail fast and learn fast.
+ 4. **Deliver Value Continuously**: Deliver value continuously.
 
 ##
 
