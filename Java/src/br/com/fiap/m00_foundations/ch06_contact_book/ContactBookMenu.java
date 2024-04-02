@@ -1,4 +1,4 @@
-package br.com.fiap.m00_foundations.ch6_contact_book;
+package br.com.fiap.m00_foundations.ch06_contact_book;
 
 import java.util.ArrayList;
 import java.util.Arrays;

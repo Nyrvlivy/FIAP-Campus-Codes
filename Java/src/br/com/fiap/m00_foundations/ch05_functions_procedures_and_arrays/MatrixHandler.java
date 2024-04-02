@@ -1,4 +1,4 @@
-package br.com.fiap.m00_foundations.ch5_functions_procedures_and_arrays;
+package br.com.fiap.m00_foundations.ch05_functions_procedures_and_arrays;
 
 import java.util.Scanner;
 

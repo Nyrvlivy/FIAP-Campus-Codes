@@ -1,4 +1,4 @@
-package br.com.fiap.m00_foundations.ch4_loops;
+package br.com.fiap.m00_foundations.ch04_loops;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
